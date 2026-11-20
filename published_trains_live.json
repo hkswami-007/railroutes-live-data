@@ -3315,6 +3315,19 @@
     "status": "LIVE"
   },
   {
+    "train_no": "12311",
+    "train_name": "Netaji Express",
+    "youtube_url": "https://youtube.com/shorts/neSgUEwiWoo",
+    "facebook_url": "https://www.facebook.com/reel/1629939318279499",
+    "instagram_url": "https://www.instagram.com/reel/18156507103531115/",
+    "youtube_id": "neSgUEwiWoo",
+    "facebook_id": "1629939318279499",
+    "instagram_id": "18156507103531115",
+    "published_at": "2026-11-20 10:31:54",
+    "is_live_all_3": true,
+    "status": "LIVE"
+  },
+  {
     "train_no": "12310",
     "train_name": "New Delhi - Rejendranagar Terminal Tejas Rajdhani Express",
     "youtube_url": "https://youtube.com/shorts/xo6M9c4nUTA",
