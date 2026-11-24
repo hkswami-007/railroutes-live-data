@@ -3289,6 +3289,19 @@
     "status": "LIVE"
   },
   {
+    "train_no": "12333",
+    "train_name": "Vibhuti Express",
+    "youtube_url": "https://youtube.com/shorts/nIsR-cS6rfM",
+    "facebook_url": "https://www.facebook.com/reel/1428390132789926",
+    "instagram_url": "https://www.instagram.com/reel/18127155715905892/",
+    "youtube_id": "nIsR-cS6rfM",
+    "facebook_id": "1428390132789926",
+    "instagram_id": "18127155715905892",
+    "published_at": "2026-11-24 02:31:49",
+    "is_live_all_3": true,
+    "status": "LIVE"
+  },
+  {
     "train_no": "12332",
     "train_name": "Himgiri Express",
     "youtube_url": "https://youtube.com/shorts/a-d4h3uU_vk",
