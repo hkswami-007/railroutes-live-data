@@ -3289,6 +3289,19 @@
     "status": "LIVE"
   },
   {
+    "train_no": "12339",
+    "train_name": "Coalfield Express",
+    "youtube_url": "https://youtube.com/shorts/iPFobevfN1g",
+    "facebook_url": "https://www.facebook.com/reel/29849501541404612",
+    "instagram_url": "https://www.instagram.com/reel/18109944788565068/",
+    "youtube_id": "iPFobevfN1g",
+    "facebook_id": "29849501541404612",
+    "instagram_id": "18109944788565068",
+    "published_at": "2026-11-25 02:31:32",
+    "is_live_all_3": true,
+    "status": "LIVE"
+  },
+  {
     "train_no": "12338",
     "train_name": "Shantiniketan Express",
     "youtube_url": "https://youtube.com/shorts/2HTEN1ix0ag",
