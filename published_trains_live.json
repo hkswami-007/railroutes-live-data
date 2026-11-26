@@ -3289,6 +3289,19 @@
     "status": "LIVE"
   },
   {
+    "train_no": "12347",
+    "train_name": "Sahid Express",
+    "youtube_url": "https://youtube.com/shorts/8sJH9d6BMvs",
+    "facebook_url": "https://www.facebook.com/reel/2249963032569780",
+    "instagram_url": "https://www.instagram.com/reel/18139140559774816/",
+    "youtube_id": "8sJH9d6BMvs",
+    "facebook_id": "2249963032569780",
+    "instagram_id": "18139140559774816",
+    "published_at": "2026-11-26 07:31:33",
+    "is_live_all_3": true,
+    "status": "LIVE"
+  },
+  {
     "train_no": "12346",
     "train_name": "Saraighat Express",
     "youtube_url": "https://youtube.com/shorts/7iCqWNAFxV0",
