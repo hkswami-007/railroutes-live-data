@@ -3289,6 +3289,19 @@
     "status": "LIVE"
   },
   {
+    "train_no": "12357",
+    "train_name": "Durgiana Express",
+    "youtube_url": "https://youtube.com/shorts/GTz8pldvuZQ",
+    "facebook_url": "https://www.facebook.com/reel/1694379369086784",
+    "instagram_url": "https://www.instagram.com/reel/17997562143068073/",
+    "youtube_id": "GTz8pldvuZQ",
+    "facebook_id": "1694379369086784",
+    "instagram_id": "17997562143068073",
+    "published_at": "2026-11-28 02:31:58",
+    "is_live_all_3": true,
+    "status": "LIVE"
+  },
+  {
     "train_no": "12356",
     "train_name": "Archana Express",
     "youtube_url": "https://youtube.com/shorts/3xObXh683jE",
